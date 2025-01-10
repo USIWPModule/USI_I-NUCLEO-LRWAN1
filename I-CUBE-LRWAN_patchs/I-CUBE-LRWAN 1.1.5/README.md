@@ -8,7 +8,7 @@ http://www.st.com/en/embedded-software/i-cube-lrwan.html
 
 [2] Download the patch file from the Github link below:
 
-https://github.com/USIWPModule/USIWP1Module/USI_I-NUCLEO-LRWAN1/blob/master/I-CUBE-LRWAN_patchs/I-CUBE-LRWAN%201.1.5/sm42-lrwan_v1.1.5.patch
+https://github.com/USIWPModule/USI_I-NUCLEO-LRWAN1/blob/main/I-CUBE-LRWAN_patchs/I-CUBE-LRWAN%201.1.5/sm42-lrwan_v1.1.5.patch
 
 
 [3] run the patch under the root folder of I-CUBE-LRWAN 1.1.5, the following is the example in cygwin environment:
