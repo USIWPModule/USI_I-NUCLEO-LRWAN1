@@ -12,8 +12,8 @@ http://www.st.com/en/embedded-software/i-cube-lrwan.html
 	
 	  1. download the corrected "stm32l0xx_hw_conf.h" for I-NUCLEO-LRWAN1 from the link below:
 	  
-	  	 https://github.com/USIWPModule/USI_I-NUCLEO-LRWAN1/blob/main/I-CUBE-LRWAN_patchs/I-CUBE-LRWAN%201.1.5/sm42-lrwan_v1.1.5.patch
-      
+		 https://github.com/USIWPModule/USI_I-NUCLEO-LRWAN1/blob/main/stm32l0xx_hw_conf.h.1.1.0
+   
 	  2. overwrite the file in the path below
 	  
 	     STM32CubeExpansion_LRWAN_V1.2.2\Projects\STM32L053R8-Nucleo\Applications\LoRa\End_Node\Core\inc\stm32l0xx_hw_conf.h
