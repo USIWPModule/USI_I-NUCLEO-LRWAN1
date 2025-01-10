@@ -9,7 +9,7 @@ http://www.st.com/en/embedded-software/i-cube-lrwan.html
 
 (2)	Download the IO definition header file of I-NUCLEO-LRWAN from the Github link below:
 
-https://github.com/USIWPModule/USILoRaModule/USI_I-NUCLEO-LRWAN1/blob/master/I-CUBE-LRWAN_patchs/I-CUBE-LRWAN%201.1.4/stm32l0xx_hw_conf.h.1.1.4
+https://github.com/USIWPModule/USI_I-NUCLEO-LRWAN1/blob/main/I-CUBE-LRWAN_patchs/I-CUBE-LRWAN%201.1.4/stm32l0xx_hw_conf.h.1.1.4
 
 (3)	Unzip the en.i-cube_lrwan.zip, and replace stm32l0xx_hw_conf.h with the downloaded ‘stm32l0xx_hw_conf.h.1.1.4’ depended on the working project below:
 
