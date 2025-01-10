@@ -8,15 +8,21 @@ The following shows how to patch the ping definition and antenna control logic:
 (1)	Download the I-CUBE-LRWAN 1.1.0 from the link below:
 
 (2)	Download the IO definition header file of I-NUCLEO-LRWAN from the Github link below:
+
   https://github.com/USIWPModule/USI_I-NUCLEO-LRWAN1/blob/main/stm32l0xx_hw_conf.h.1.1.0
 
 (3)	Unzip the en.i-cube_lrwan.zip, and replace stm32l0xx_hw_conf.h with the downloaded ‘stm32l0xx_hw_conf.h.1.1.0’ depended on the working project below:
 
   a.	For AT_Master project:
+  
   en.i-cube_lrwan\STM32CubeExpansion_LRWAN_V1.1.0\Projects\Multi\Applications\LoRa\AT_Master\inc\stm32l0xx_hw_conf.h
+  
   b.	For End_Node project::
+  
   en.i-cube_lrwan\STM32CubeExpansion_LRWAN_V1.1.0\Projects\Multi\Applications\LoRa\End_Node\inc\stm32l0xx_hw_conf.h
+  
   c.	For PingPong project:
+  
   en.i-cube_lrwan\STM32CubeExpansion_LRWAN_V1.1.0\Projects\Multi\Applications\LoRa\PingPong\inc\stm32l0xx_hw_conf.h
 
 (4)	Correct the antenna switch logic for I-NUCLEO-LRWAN1
